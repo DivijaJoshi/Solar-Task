@@ -16,6 +16,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import os
 
+
+os.run("sudo apt-get install python3-distutils")
 # Set page config
 st.set_page_config(
     page_title="Predictive Maintenance Dashboard",
