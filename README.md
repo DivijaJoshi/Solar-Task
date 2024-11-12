@@ -7,7 +7,7 @@ https://huggingface.co/spaces/divija05/predictive_maintenance_equipment
 https://www.kaggle.com/code/vineetmehar/binary-classification-of-machine-failure
 
 
-Here is a `README.md` file that outlines the purpose, setup, usage, and functionality of your Predictive Maintenance Dashboard for Manufacturing Equipment.
+
 
 
 # Predictive Maintenance Dashboard for Manufacturing Equipment
@@ -119,4 +119,4 @@ For questions or feedback, please reach out to the repository maintainer.
 
 ---
 
-**Predictive Maintenance Dashboard** - an intelligent, data-driven solution for manufacturing equipment maintenance.
+
