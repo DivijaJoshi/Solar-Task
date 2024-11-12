@@ -50,7 +50,7 @@ def load_and_prepare_data():
     Returns cleaned and feature-engineered dataset
     """
     # Load dataset
-    data = pd.read_csv('playground-series-s3e17/train.csv')
+    data = pd.read_csv('./train.csv')
     
     # Data Cleaning
     data = data.ffill().bfill()
